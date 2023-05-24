@@ -9,7 +9,7 @@ This project demonstrates how to apply various filters to a webcam feed using Op
 
 ## Setup
 
-1. Go to [I'm an inline-style link](https://www.google.com)
+1. Go to [Github Pages](https://ormaq.github.io/OpenCv-Web-Demo/)
 
 Or
 
